@@ -8,7 +8,6 @@ float yValue(float num4,float num3,float num2,float num1,float xValue);
 int main(void)
 {
 float lowerbound,upperbound,pow,num1,num2,num3,num4,xValue,width,result,height;
-printf("%f",area(5,2));
 printf("Please enter the lower and upper bound\n");
  //Determine lower and upper bound//
 do
